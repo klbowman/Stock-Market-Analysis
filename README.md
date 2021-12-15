@@ -1,6 +1,6 @@
 # Stock Market Analysis 
 
-Data analysis and visualization using charts and pivot tables in Excel.
+Data analysis using VBA scripting and Excel.
 
 ## Description
 
