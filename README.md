@@ -4,7 +4,7 @@ Data analysis using VBA scripting and Excel.
 
 ## Description
 
-This repository is designed to uncover market trends by analyzing and visualizing data from 4,000 Kickstarter projects. 
+This repository is designed to analyze stock market data. 
 ### Data tab
 - Conditional formatting is used in the **State** column to color code projects as successful (green), failed (red), canceled (yellow), or live (grey). 
 - The **Percent Funded** column uses a formula to uncover how much money a campaign made to reach its initial goal, and conditional formatting is used to color code funding amounts (0-99; red, 100-199; green, >200; blue).
