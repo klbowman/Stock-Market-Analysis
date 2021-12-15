@@ -4,7 +4,7 @@ Data analysis using VBA scripting and Excel.
 
 ## Description
 
-This repository is designed to analyze stock market data. 
+This repository is designed to analyze stock market data in Excel, using VBA scripting. The script (KatlinBowman_VBAChallenge.bas)  
 ### Data tab
 - Conditional formatting is used in the **State** column to color code projects as successful (green), failed (red), canceled (yellow), or live (grey). 
 - The **Percent Funded** column uses a formula to uncover how much money a campaign made to reach its initial goal, and conditional formatting is used to color code funding amounts (0-99; red, 100-199; green, >200; blue).
@@ -65,6 +65,7 @@ This repository is designed to analyze stock market data.
 ### Technologies Used 
 
 * Microsoft Excel
+* VBA scripting
 
 ### Installing
 
