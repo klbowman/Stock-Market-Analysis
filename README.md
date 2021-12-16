@@ -28,7 +28,7 @@ The script also uses conditional formatting to highlight positive change in gree
 * Navigate to the Resources directory and open Multiple_year_stock_data.xlsx.
 * Import KatlinBowman_VBAChallenge.bas into the Visual Basics editor.
 
-## Authors
+## Author
 
 Katlin Bowman, PhD
 
